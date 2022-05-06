@@ -4,7 +4,7 @@ For the health and privacy of the project at the moment I'm not planning to shar
 
 ## Overview
 
-1. ==What we want to transform==
+==What we want to transform==
 
 ![1. What we want to transform.jpg](/images/1. What we want to transform.jpg)
 
