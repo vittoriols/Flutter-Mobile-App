@@ -3,7 +3,7 @@
 For the health and privacy of the project at the moment I'm not planning to share the code behind it, but just an overview of potentialities of it.
 
 ## Overview
-1. What we want to transform: Turn excel reporting local file from desktop --> shared accessible data on the go from mobile
+1. What we want to transform: Turn excel reporting local file from desktop into shared accessible data on the go from mobile
 
 ![1](/images/1.jpg "1")
 
